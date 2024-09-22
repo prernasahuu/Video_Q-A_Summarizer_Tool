@@ -1,0 +1,8 @@
+langchain
+gradio
+openai
+moviepy
+whisper
+git+https://github.com/openai/whisper.git
+chromadb
+sentence_transformers
