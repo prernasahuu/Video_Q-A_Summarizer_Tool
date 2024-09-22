@@ -1,4 +1,4 @@
-# Q-ABot-RAGpipeline
+# Video Question & Answer-Summarizer Tool.
 ## Objective:
 To build a Question and Answer Bot that will help to generate response to query on the basis of given Context. In this project, I have used word embeddings using the msmarco-MiniLM-L-6-v3 model and integrated it with the ChromsDB vector database to build a robust RAG pipeline. The input for the bot was taken as Video("context"), allowing the model to understand context and provide domain specific and top ranked answers to the query efficiently.
 
